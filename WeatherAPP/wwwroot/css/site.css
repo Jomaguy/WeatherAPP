@@ -1,0 +1,15 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+.weather-container {
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+#weather-info {
+    margin-top: 20px;
+}
